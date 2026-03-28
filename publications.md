@@ -1,6 +1,6 @@
 ## 代表性论文
 
-共发表SCI论文60余篇。代表性论文如下。*
+共发表SCI论文60余篇。代表性论文如下。
 
 <div class="pub-entry">Wang, L.-H., Gao, L.-Y., Dong, B.-C., & Yu, F.-H. (2025). Determinants of global variation in taxonomic and phylogenetic diversity of invasive plants. <strong>Journal of Ecology</strong>. <a href="https://doi.org/10.1111/1365-2745.70068" target="_blank">DOI: 10.1111/1365-2745.70068</a></div>
 
