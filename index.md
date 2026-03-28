@@ -51,11 +51,15 @@ title: Bi-Cheng Dong
 
 ## 代表性论文
 
-<div class="pub-entry">Dong, B.-C., Alpert, P., & Yu, F.-H. (2015). Clonal integration in homogeneous environments increases performance of <em>Alternanthera philoxeroides</em>. <strong>Oecologia</strong>, 179, 393–403.</div>
+<div class="pub-entry">Wang, L.-H., Gao, L.-Y., Dong, B.-C., & Yu, F.-H. (2025). Determinants of global variation in taxonomic and phylogenetic diversity of invasive plants. <strong>Journal of Ecology</strong>. (309 reads, 1 citation)</div>
 
-<div class="pub-entry">Dong, B.-C., van Kleunen, M., & Yu, F.-H. (2018). Context-dependent parental effects on clonal offspring performance. <strong>Frontiers in Plant Science</strong>, 9, 1824.</div>
+<div class="pub-entry">Dong, B.-C., Dong, R., Yang, Q., & van Kleunen, M. (2025). Predicting invasion success of naturalized cultivated plants in China. <strong>Journal of Applied Ecology</strong>. (282 reads, 3 citations)</div>
 
-<div class="pub-entry">Dong, B.-C., Alpert, P., & Yu, F.-H. (2019). Transgenerational effects of herbivory and soil nutrients transmitted via vegetative reproduction in the clonal plant <em>Alternanthera philoxeroides</em>. <strong>Perspectives in Plant Ecology, Evolution and Systematics</strong>, 41, 125498.</div>
+<div class="pub-entry">Dong, B.-C., Yang, Q., Kinlock, N. L., & van Kleunen, M. (2023). Naturalization of introduced plants is driven by life-form-dependent cultivation biases. <strong>Diversity and Distributions</strong>. (377 reads, 13 citations)</div>
+
+<div class="pub-entry">Dong, R., Dong, B.-C., Fu, Q.-Y., & van Kleunen, M. (2023). Cultivated alien plants with high invasion potential are more likely to be traded online in China. <strong>Ecological Applications</strong>. (210 reads, 6 citations)</div>
+
+<div class="pub-entry">Dong, B.-C., Alpert, P., Zhang, Q., & Yu, F.-H. (2015). Clonal integration in homogeneous environments increases performance of <em>Alternanthera philoxeroides</em>. <strong>Oecologia</strong>, 179, 393–403. (503 reads, 102 citations)</div>
 
 → 完整列表：[Google Scholar](https://scholar.google.com/citations?user=SUF79VYAAAAJ) · [ResearchGate](https://www.researchgate.net/profile/Bi-Cheng-Dong) · [论文页面](/publications/)
 
