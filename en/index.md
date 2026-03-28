@@ -8,7 +8,6 @@ permalink: /en/
 <div class="profile-section">
   <div class="profile-photo-wrap">
     <img src="/assets/images/profile-logo.png" alt="Bi-Cheng Dong" />
-    <div class="photo-caption">Bi-Cheng Dong · 董必成</div>
   </div>
   <div class="profile-text">
     <p>

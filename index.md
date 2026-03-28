@@ -7,7 +7,6 @@ title: Bi-Cheng Dong
 <div class="profile-section">
   <div class="profile-photo-wrap">
     <img src="/assets/images/profile-logo.png" alt="Bi-Cheng Dong" />
-    <div class="photo-caption">董必成 · Bi-Cheng Dong</div>
   </div>
   <div class="profile-text">
     <p>
