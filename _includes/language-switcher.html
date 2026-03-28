@@ -1,0 +1,28 @@
+<span class="language-switcher">
+  {% if page.url == '/' or page.url == '/index.html' %}
+    <a href="/en/">English</a>
+  {% elsif page.url contains '/en/' %}
+    <a href="{{ page.url | replace: '/en/', '/' }}">中文</a>
+  {% else %}
+    <a href="/en{{ page.url }}">English</a>
+  {% endif %}
+</span>
+
+<style>
+.language-switcher {
+  float: right;
+  margin: 5px 15px;
+}
+.language-switcher a {
+  color: #2a7ae2;
+  text-decoration: none;
+  font-size: 14px;
+  padding: 4px 8px;
+  border: 1px solid #2a7ae2;
+  border-radius: 4px;
+}
+.language-switcher a:hover {
+  background-color: #2a7ae2;
+  color: white;
+}
+</style>
