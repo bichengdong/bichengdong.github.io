@@ -4,56 +4,32 @@ title: Publications
 permalink: /en/publications/
 ---
 
-## Publications | 发表论文
+## Selected Publications | 代表性论文
 
-Total: 43 SCI papers and 5 Chinese core journal articles. First or corresponding author: 20 papers.
-
-共发表SCI论文43篇，中文核心期刊5篇。其中，第一作者或通信作者论文20篇。
+Total: 47 SCI papers, 21 as first or corresponding author. Selected high-impact publications below.
 
 ---
 
-### 2020
+### 2025
 
-- Liu, L., P. Alpert, B.-C. Dong, and F.-H. Yu. 2020. Modification by earthworms of effects of soil heterogeneity and root foraging in eight species of grass. *Science of The Total Environment* 708:134941.
+<div class="pub-entry">Wang, L.-H., Gao, L.-Y., Dong, B.-C., & Yu, F.-H. (2025). Determinants of global variation in taxonomic and phylogenetic diversity of invasive plants. <strong>Journal of Ecology</strong>. <a href="https://doi.org/10.1111/1365-2745.70068" target="_blank">DOI: 10.1111/1365-2745.70068</a></div>
 
-- Portela, R., B.-C. Dong, F.-H. Yu, R. Barreiro, S. R. Roiloa, and D. M. Silva Matos. 2020. Trans-generational effects in the clonal invader *Alternanthera philoxeroides*. *Journal of Plant Ecology* 13:122-129.
-
-- Qin, T.-J., J. Zhou, Y. Sun, H. Mueller-Schaerer, F.-L. Luo, B.-C. Dong, H.-L. Li, and F.-H. Yu. 2020. Phylogenetic diversity is a better predictor of wetland community resistance to *Alternanthera philoxeroides* invasion than species richness. *Plant Biology* 22:591-599.
+<div class="pub-entry">Dong, B.-C., Dong, R., Yang, Q., & van Kleunen, M. (2025). Predicting invasion success of naturalized cultivated plants in China. <strong>Journal of Applied Ecology</strong>. <a href="https://doi.org/10.1111/1365-2664.14873" target="_blank">DOI: 10.1111/1365-2664.14873</a></div>
 
 ---
 
-### 2019
+### 2023
 
-- Dong, B.-C., P. Alpert, and F.-H. Yu. 2019a. Transgenerational effects of herbivory and soil nutrients transmitted via vegetative reproduction in the clonal plant *Alternanthera philoxeroides*. *Perspectives in Plant Ecology Evolution and Systematics* 41:125498.
+<div class="pub-entry">Dong, B.-C., Yang, Q., Kinlock, N. L., & van Kleunen, M. (2023). Naturalization of introduced plants is driven by life-form-dependent cultivation biases. <strong>Diversity and Distributions</strong>. <a href="https://doi.org/10.1111/ddi.13788" target="_blank">DOI: 10.1111/ddi.13788</a></div>
 
-- Dong, B.-C., F.-H. Yu, and S. R. Roiloa. 2019b. Editorial: Ecoepigenetics in clonal and inbreeding plants. *Frontiers in Plant Science* 10:622.
-
-- Dong, B.-C., et al. 2019c. Effects of clonal integration and nitrogen supply on responses of a clonal plant to short-term herbivory. *Journal of Plant Ecology* 12:624-635.
-
----
-
-### 2018
-
-- Dong, B.-C., M. van Kleunen, and F.-H. Yu. 2018a. Context-dependent parental effects on clonal offspring performance. *Frontiers in Plant Science* 9:1824.
-
-- Dong, B.-C., M.-Z. Wang, R.-H. Liu, F.-L. Luo, H.-L. Li, and F.-H. Yu. 2018b. Direct and legacy effects of herbivory on growth and physiology of a clonal plant. *Biological Invasions* 20:3631-3645.
-
----
-
-### 2017
-
-- Dong, B.-C., T. Fu, F.-L. Luo, and F.-H. Yu. 2017. Herbivory-induced maternal effects on growth and defense traits in the clonal species *Alternanthera philoxeroides*. *Science of The Total Environment* 605:114-123.
-
-- Liu, L., and B.-C. Dong*. 2017. Effects of soil heterogeneity and clonal integration on *Alternanthera philoxeroides* populations. *Plant Species Biology* 32:189-199.
+<div class="pub-entry">Dong, R., Dong, B.-C., Fu, Q.-Y., & van Kleunen, M. (2023). Cultivated alien plants with high invasion potential are more likely to be traded online in China. <strong>Ecological Applications</strong>. <a href="https://doi.org/10.1002/eap.2811" target="_blank">DOI: 10.1002/eap.2811</a></div>
 
 ---
 
 ### 2015
 
-- Dong, B.-C., P. Alpert, Q. Zhang, and F.-H. Yu. 2015. Clonal integration in homogeneous environments increases performance of *Alternanthera philoxeroides*. *Oecologia* 179:393-403.
+<div class="pub-entry">Dong, B.-C., Alpert, P., Zhang, Q., & Yu, F.-H. (2015). Clonal integration in homogeneous environments increases performance of <em>Alternanthera philoxeroides</em>. <strong>Oecologia</strong>, 179, 393–403. <a href="https://doi.org/10.1007/s00442-015-3394-3" target="_blank">DOI: 10.1007/s00442-015-3394-3</a></div>
 
 ---
 
-For complete publication list, please visit:
-- [ResearchGate](https://www.researchgate.net/profile/Bi-Cheng_Dong)
-- [Google Scholar](https://scholar.google.com/citations?user=SUF79VYAAAAJ)
+Full list: [Google Scholar](https://scholar.google.com/citations?user=SUF79VYAAAAJ) · [ResearchGate](https://www.researchgate.net/profile/Bi-Cheng_Dong).
