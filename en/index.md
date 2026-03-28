@@ -1,7 +1,7 @@
 ---
 layout: default
 lang: en
-title: Home
+title: Bi-Cheng Dong
 permalink: /en/
 ---
 

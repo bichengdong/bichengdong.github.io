@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 论文 | Publications
+title: 论文
 ---
 
 ## 发表论文 | Publications

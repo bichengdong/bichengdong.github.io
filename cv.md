@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 简历 | CV
+title: 简历
 ---
 
 ##  Curriculum Vitae

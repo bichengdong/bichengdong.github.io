@@ -1,7 +1,7 @@
 ---
 layout: default
 lang: zh
-title: 首页
+title: Bi-Cheng Dong
 ---
 
 ## 个人简介

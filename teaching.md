@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 教学 | Teaching
+title: 教学
 ---
 
 ## 入侵生态学 | Invasion Ecology

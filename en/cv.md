@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CV | 简历
+title: CV
 permalink: /en/cv/
 ---
 
