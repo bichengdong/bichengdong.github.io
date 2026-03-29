@@ -1,6 +1,9 @@
-董必成
+---
+layout: page
+title: 简历
+---
 
-副教授 · 北京林业大学 生态与自然保护学院
+**董必成** · 副教授 · 北京林业大学 生态与自然保护学院
 
 ---
 
@@ -44,7 +47,7 @@
 
 ### 学术兼职
 
-- *Journal of Plant Ecology* 青年编委 （2023-2026）
+- *Journal of Plant Ecology* 青年编委（2023–2026）
 - *Frontiers in Plant Science* 专辑编委（2018–2020）
 - *PLOS ONE* 期刊编委（2018–至今）
 
