@@ -1,14 +1,14 @@
-Total: 17 papers (first author: 12; corresponding author: 5).
+Total: 23 papers (first author: 15; corresponding author: 8).
 
 ## 2025–Present
 
 1. <div class="pub-entry"><strong>Dong, B.-C.</strong>, Dong, R., Yang, Q., Kinlock, N. L., & van Kleunen, M. (2025). Predicting invasion success of naturalized cultivated plants in China. <strong>Journal of Applied Ecology</strong>, 62, 1365–2664. <a href="https://doi.org/10.1111/1365-2664.14873" target="_blank">DOI: 10.1111/1365-2664.14873</a></div>
 
-2. <div class="pub-entry">Wang, L.-H., Gao, L.-Y., <strong>Dong, B.-C.</strong>, & Yu, F.-H. (2025). Determinants of global variation in taxonomic and phylogenetic diversity of invasive plants. <strong>Journal of Ecology</strong>, 113, 1821–1835. <a href="https://doi.org/10.1111/1365-2745.70068" target="_blank">DOI: 10.1111/1365-2745.70068</a></div>
+2. <div class="pub-entry"><strong>Wang, L.-H., Gao, L.-Y., Dong, B.-C.*</strong>, & Yu, F.-H. (2025). Determinants of global variation in taxonomic and phylogenetic diversity of invasive plants. <strong>Journal of Ecology</strong>, 113, 1821–1835. <a href="https://doi.org/10.1111/1365-2745.70068" target="_blank">DOI: 10.1111/1365-2745.70068</a></div>
 
-3. <div class="pub-entry"><strong>Dong, B.-C.</strong>, Yang, Q., Kinlock, N. L., Pouteau, R., Pyšek, P., Weigelt, P., & van Kleunen, M. (2024). Naturalization of introduced plants is driven by life-form-dependent cultivation biases. <strong>Diversity and Distributions</strong>, 30, 55–70. <a href="https://doi.org/10.1111/ddi.13788" target="_blank">DOI: 10.1111/ddi.13788</a></div>
+3. <div class="pub-entry"><strong>Dong, B.-C.*</strong>, Yang, Q., Kinlock, N. L., Pouteau, R., Pyšek, P., Weigelt, P., & van Kleunen, M. (2024). Naturalization of introduced plants is driven by life-form-dependent cultivation biases. <strong>Diversity and Distributions</strong>, 30, 55–70. <a href="https://doi.org/10.1111/ddi.13788" target="_blank">DOI: 10.1111/ddi.13788</a></div>
 
-4. <div class="pub-entry">Dong, R., <strong>Dong, B.-C.</strong>, Fu, Q.-Y., Yang, Q., Dai, Z.-C., Luo, F.-L., Gao, J.-Q., & van Kleunen, M. (2024). Cultivated alien plants with high invasion potential are more likely to be traded online in China. <strong>Ecological Applications</strong>, 34, e2811. <a href="https://doi.org/10.1002/eap.2811" target="_blank">DOI: 10.1002/eap.2811</a></div>
+4. <div class="pub-entry"><strong>Dong, R., Dong, B.-C.*</strong>, Fu, Q.-Y., Yang, Q., Dai, Z.-C., Luo, F.-L., Gao, J.-Q., & van Kleunen, M. (2024). Cultivated alien plants with high invasion potential are more likely to be traded online in China. <strong>Ecological Applications</strong>, 34, e2811. <a href="https://doi.org/10.1002/eap.2811" target="_blank">DOI: 10.1002/eap.2811</a></div>
 
 5. <div class="pub-entry"><strong>Dong, B.-C.</strong>, Roiloa, S. R., Xue, W., & Yu, F.-H. (2023). Editorial: Ecoepigenetics in clonal and inbreeding plants: Transgenerational adaptation and environmental variation, Volume II. <strong>Frontiers in Plant Science</strong>, 13, 1126610. <a href="https://doi.org/10.3389/fpls.2022.1126610" target="_blank">DOI: 10.3389/fpls.2022.1126610</a></div>
 
