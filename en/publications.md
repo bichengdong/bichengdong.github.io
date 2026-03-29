@@ -2,6 +2,7 @@
 layout: page
 title: Publications
 permalink: /en/publications/
+lang: en
 ---
 
 <div style="text-align: center;">

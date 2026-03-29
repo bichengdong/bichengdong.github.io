@@ -2,6 +2,7 @@
 layout: page
 title: CV
 permalink: /en/cv/
+lang: en
 ---
 
 ### Bi-Cheng Dong
