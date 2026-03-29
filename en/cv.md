@@ -1,9 +1,3 @@
----
-layout: page
-title: CV
-permalink: /en/cv/
----
-
 ## Bi-Cheng Dong
 
 Associate Professor · School of Ecology and Nature Conservation, Beijing Forestry University
@@ -12,30 +6,30 @@ Associate Professor · School of Ecology and Nature Conservation, Beijing Forest
 
 ### Contact
 
-| | |
-|---|---|
-| **Email** | [bcdong@bjfu.edu.cn](mailto:bcdong@bjfu.edu.cn) |
-| **Phone** | +86 (0)10 62336683 |
+|             |                                                               |
+| ----------- | ------------------------------------------------------------- |
+| **Email**   | [bcdong@bjfu.edu.cn](mailto:bcdong@bjfu.edu.cn)               |
+| **Phone**   | +86 (0)10 62336683                                            |
 | **Address** | 35 Qinghua East Road, Haidian District, Beijing 100083, China |
 
 ---
 
 ### Education
 
-| Period | Degree | Institution |
-|--------|--------|-------------|
+| Period      | Degree           | Institution                 |
+| ----------- | ---------------- | --------------------------- |
 | 2009 – 2014 | Ph.D. in Ecology | Beijing Forestry University |
-| 2005 – 2009 | B.S. in Biology | Northeast Normal University |
+| 2005 – 2009 | B.S. in Biology  | Northeast Normal University |
 
 ---
 
 ### Positions
 
-| Period | Position | Institution |
-|--------|----------|-------------|
-| 2020 – Present | Associate Professor | Beijing Forestry University |
-| 2019 – 2020 | Visiting Scholar | University of Konstanz, Germany |
-| 2014 – 2020 | Lecturer | Beijing Forestry University |
+| Period         | Position            | Institution                     |
+| -------------- | ------------------- | ------------------------------- |
+| 2020 – Present | Associate Professor | Beijing Forestry University     |
+| 2019 – 2020    | Visiting Scholar    | University of Konstanz, Germany |
+| 2014 – 2020    | Lecturer            | Beijing Forestry University     |
 
 ---
 
