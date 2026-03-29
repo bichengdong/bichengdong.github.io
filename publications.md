@@ -1,7 +1,5 @@
 ## 2021–至今
 
-**第一作者论文：**
-
 <div class="pub-entry">Dong, B.-C., Dong, R., Yang, Q., Kinlock, N. L., & van Kleunen, M. (2025). Predicting invasion success of naturalized cultivated plants in China. <strong>Journal of Applied Ecology</strong>, 62, 1365–2664. <a href="https://doi.org/10.1111/1365-2664.14873" target="_blank">DOI: 10.1111/1365-2664.14873</a></div>
 
 <div class="pub-entry">Dong, B.-C., Yang, Q., Kinlock, N. L., Pouteau, R., Pyšek, P., Weigelt, P., & van Kleunen, M. (2024). Naturalization of introduced plants is driven by life-form-dependent cultivation biases. <strong>Diversity and Distributions</strong>, 30, 55–70. <a href="https://doi.org/10.1111/ddi.13788" target="_blank">DOI: 10.1111/ddi.13788</a></div>
@@ -16,15 +14,9 @@
 
 <div class="pub-entry">Dong, R., Dong, B.-C., Fu, Q.-Y., Yang, Q., Dai, Z.-C., Luo, F.-L., Gao, J.-Q., & van Kleunen, M. (2024). Cultivated alien plants with high invasion potential are more likely to be traded online in China. <strong>Ecological Applications</strong>, 34, e2811. <a href="https://doi.org/10.1002/eap.2811" target="_blank">DOI: 10.1002/eap.2811</a></div>
 
-<div class="pub-entry">Fang, X.-H., Chen, X.-M., Liu, R.-L., Zhang, S.-H., Gao, J.-Q., Dong, B.-C., & Yu, F.-H. (2024). Effects of alligator weed invasion on wetlands in protected areas: A case study of Lishui Jiulong National Wetland Park. <strong>Science of the Total Environment</strong>, 953, 176230. <a href="https://doi.org/10.1016/j.scitotenv.2024.176230" target="_blank">DOI: 10.1016/j.scitotenv.2024.176230</a></div>
-
-<div class="pub-entry">Fu, Q.-Y., Yu, C.-L., Dong, R., Shi, J., Luo, F.-L., Gao, J.-Q., Li, H.-L., Dong, B.-C., & Yu, F.-H. (2024). Contrasting responses of an invasive plant to herbivory of native and introduced insects. <strong>Ecological Processes</strong>, 13, 78. <a href="https://doi.org/10.1186/s13717-024-00560-2" target="_blank">DOI: 10.1186/s13717-024-00560-2</a></div>
-
 ---
 
 ## 2010–2020
-
-**第一作者论文：**
 
 <div class="pub-entry">Dong, B.-C., Alpert, P., & Yu, F.-H. (2019). Transgenerational effects of herbivory and soil nutrients transmitted via vegetative reproduction in the clonal plant <em>Alternanthera philoxeroides</em>. <strong>Perspectives in Plant Ecology, Evolution and Systematics</strong>, 41, 125498. <a href="https://doi.org/10.1016/j.ppees.2019.125498" target="_blank">DOI: 10.1016/j.ppees.2019.125498</a></div>
 
@@ -37,6 +29,12 @@
 <div class="pub-entry">Dong, B.-C., Wang, M.-Z., Liu, R.-H., Luo, F.-L., Li, H.-L., & Yu, F.-H. (2018). Direct and legacy effects of herbivory on growth and physiology of a clonal plant. <strong>Biological Invasions</strong>, 20, 3631–3645. <a href="https://doi.org/10.1007/s10530-018-1801-5" target="_blank">DOI: 10.1007/s10530-018-1801-5</a></div>
 
 <div class="pub-entry">Dong, B.-C., Fu, T., Luo, F.-L., & Yu, F.-H. (2017). Herbivory-induced maternal effects on growth and defense traits in the clonal species <em>Alternanthera philoxeroides</em>. <strong>Science of the Total Environment</strong>, 605–606, 114–123. <a href="https://doi.org/10.1016/j.scitotenv.2017.06.141" target="_blank">DOI: 10.1016/j.scitotenv.2017.06.141</a></div>
+
+<div class="pub-entry">Liu, L., & Dong, B.-C.* (2017). Effects of soil heterogeneity and clonal integration on <em>Alternanthera philoxeroides</em> populations with a radial ramet aggregation. <strong>Plant Species Biology</strong>, 32, 189–199. <a href="https://doi.org/10.1111/1442-1984.12141" target="_blank">DOI: 10.1111/1442-1984.12141</a></div>
+
+<div class="pub-entry">Hu, X.-T., & Dong, B.-C.* (2019). Herbivory and nitrogen availability affect performance of an invader <em>Alternanthera philoxeroides</em> and its native congener <em>A. sessilis</em>. <strong>Flora</strong>, 257, 151412. <a href="https://doi.org/10.1016/j.flora.2019.05.011" target="_blank">DOI: 10.1016/j.flora.2019.05.011</a></div>
+
+<div class="pub-entry">Qin, T.-J., Guan, Y.-T., Quan, H., Dong, B.-C.*, Luo, F.-L., Zhang, M.-X., Li, H.-L., & Yu, F.-H. (2020). Phylogenetic diversity is a better predictor of wetland community resistance to <em>Alternanthera philoxeroides</em> invasion than species richness. <strong>Plant Biology</strong>, 22, 591–599. <a href="https://doi.org/10.1111/plb.13101" target="_blank">DOI: 10.1111/plb.13101</a></div>
 
 <div class="pub-entry">Dong, B.-C., Alpert, P., Zhang, Q., & Yu, F.-H. (2015). Clonal integration in homogeneous environments increases performance of <em>Alternanthera philoxeroides</em>. <strong>Oecologia</strong>, 179, 393–403. <a href="https://doi.org/10.1007/s00442-015-3394-3" target="_blank">DOI: 10.1007/s00442-015-3394-3</a></div>
 
@@ -51,14 +49,6 @@
 <div class="pub-entry">Dong, B.-C., Yu, G.-L., Guo, W., Zhang, M.-X., Dong, M., & Yu, F.-H. (2010). How internode length, position and presence of leaves affect survival and growth of <em>Alternanthera philoxeroides</em> after fragmentation? <strong>Evolutionary Ecology</strong>, 24, 1447–1461. <a href="https://doi.org/10.1007/s10682-010-9390-5" target="_blank">DOI: 10.1007/s10682-010-9390-5</a></div>
 
 <div class="pub-entry">Dong, B.-C., Zhang, M.-X., Alpert, P., Lei, G.-C., & Yu, F.-H. (2010). Effects of orientation on survival and growth of small fragments of the invasive, clonal plant <em>Alternanthera philoxeroides</em>. <strong>PLoS ONE</strong>, 5, e13631. <a href="https://doi.org/10.1371/journal.pone.0013631" target="_blank">DOI: 10.1371/journal.pone.0013631</a></div>
-
-**通讯作者论文：**
-
-<div class="pub-entry">Liu, L., & Dong, B.-C.* (2017). Effects of soil heterogeneity and clonal integration on <em>Alternanthera philoxeroides</em> populations with a radial ramet aggregation. <strong>Plant Species Biology</strong>, 32, 189–199. <a href="https://doi.org/10.1111/1442-1984.12141" target="_blank">DOI: 10.1111/1442-1984.12141</a></div>
-
-<div class="pub-entry">Hu, X.-T., & Dong, B.-C.* (2019). Herbivory and nitrogen availability affect performance of an invader <em>Alternanthera philoxeroides</em> and its native congener <em>A. sessilis</em>. <strong>Flora</strong>, 257, 151412. <a href="https://doi.org/10.1016/j.flora.2019.05.011" target="_blank">DOI: 10.1016/j.flora.2019.05.011</a></div>
-
-<div class="pub-entry">Qin, T.-J., Guan, Y.-T., Quan, H., Dong, B.-C.*, Luo, F.-L., Zhang, M.-X., Li, H.-L., & Yu, F.-H. (2020). Phylogenetic diversity is a better predictor of wetland community resistance to <em>Alternanthera philoxeroides</em> invasion than species richness. <strong>Plant Biology</strong>, 22, 591–599. <a href="https://doi.org/10.1111/plb.13101" target="_blank">DOI: 10.1111/plb.13101</a></div>
 
 ---
 
