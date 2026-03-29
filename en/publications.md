@@ -11,4 +11,7 @@ Total: 60 SCI papers. Selected publications below.
 <div class="pub-entry">Dong, B.-C., Alpert, P., Zhang, Q., & Yu, F.-H. (2015). Clonal integration in homogeneous environments increases performance of <em>Alternanthera philoxeroides</em>. <strong>Oecologia</strong>, 179, 393–403. <a href="https://doi.org/10.1007/s00442-015-3394-3" target="_blank">DOI: 10.1007/s00442-015-3394-3</a></div>
 
 
-Full list: [Google Scholar](https://scholar.google.com/citations?user=SUF79VYAAAAJ) · [ResearchGate](https://www.researchgate.net/profile/Bi-Cheng_Dong).
+Full list:
+<a href="https://scholar.google.com/citations?user=SUF79VYAAAAJ" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Google_Scholar_logo.svg" alt="Google Scholar" height="20" style="vertical-align: middle;"></a>
+·
+<a href="https://www.researchgate.net/profile/Bi-Cheng_Dong" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/ResearchGate_logo.svg" alt="ResearchGate" height="20" style="vertical-align: middle;"></a>.

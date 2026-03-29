@@ -12,4 +12,7 @@
 
 ---
 
-完整列表请访问 [Google Scholar](https://scholar.google.com/citations?user=SUF79VYAAAAJ) 或 [ResearchGate](https://www.researchgate.net/profile/Bi-Cheng_Dong)。
+完整列表请访问
+<a href="https://scholar.google.com/citations?user=SUF79VYAAAAJ" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Google_Scholar_logo.svg" alt="Google Scholar" height="20" style="vertical-align: middle;"></a>
+或
+<a href="https://www.researchgate.net/profile/Bi-Cheng_Dong" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/ResearchGate_logo.svg" alt="ResearchGate" height="20" style="vertical-align: middle;"></a>。
