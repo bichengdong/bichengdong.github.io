@@ -1,5 +1,3 @@
-## 
-
 Total: 60 SCI papers. Selected publications below.
 
 <div class="pub-entry">Wang, L.-H., Gao, L.-Y., Dong, B.-C., & Yu, F.-H. (2025). Determinants of global variation in taxonomic and phylogenetic diversity of invasive plants. <strong>Journal of Ecology</strong>. <a href="https://doi.org/10.1111/1365-2745.70068" target="_blank">DOI: 10.1111/1365-2745.70068</a></div>
@@ -12,6 +10,5 @@ Total: 60 SCI papers. Selected publications below.
 
 <div class="pub-entry">Dong, B.-C., Alpert, P., Zhang, Q., & Yu, F.-H. (2015). Clonal integration in homogeneous environments increases performance of <em>Alternanthera philoxeroides</em>. <strong>Oecologia</strong>, 179, 393–403. <a href="https://doi.org/10.1007/s00442-015-3394-3" target="_blank">DOI: 10.1007/s00442-015-3394-3</a></div>
 
----
 
 Full list: [Google Scholar](https://scholar.google.com/citations?user=SUF79VYAAAAJ) · [ResearchGate](https://www.researchgate.net/profile/Bi-Cheng_Dong).
