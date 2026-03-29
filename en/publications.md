@@ -2,6 +2,8 @@
 
 <div class="pub-entry">Dong, B.-C., Dong, R., Yang, Q., Kinlock, N. L., & van Kleunen, M. (2025). Predicting invasion success of naturalized cultivated plants in China. <strong>Journal of Applied Ecology</strong>, 62, 1365–2664. <a href="https://doi.org/10.1111/1365-2664.14873" target="_blank">DOI: 10.1111/1365-2664.14873</a></div>
 
+<div class="pub-entry">Wang, L.-H., Gao, L.-Y., Dong, B.-C., & Yu, F.-H. (2025). Determinants of global variation in taxonomic and phylogenetic diversity of invasive plants. <strong>Journal of Ecology</strong>, 113, 1821–1835. <a href="https://doi.org/10.1111/1365-2745.70068" target="_blank">DOI: 10.1111/1365-2745.70068</a></div>
+
 <div class="pub-entry">Dong, B.-C., Yang, Q., Kinlock, N. L., Pouteau, R., Pyšek, P., Weigelt, P., & van Kleunen, M. (2024). Naturalization of introduced plants is driven by life-form-dependent cultivation biases. <strong>Diversity and Distributions</strong>, 30, 55–70. <a href="https://doi.org/10.1111/ddi.13788" target="_blank">DOI: 10.1111/ddi.13788</a></div>
 
 <div class="pub-entry">Dong, B.-C., Roiloa, S. R., Xue, W., & Yu, F.-H. (2023). Editorial: Ecoepigenetics in clonal and inbreeding plants: Transgenerational adaptation and environmental variation, Volume II. <strong>Frontiers in Plant Science</strong>, 13, 1126610. <a href="https://doi.org/10.3389/fpls.2022.1126610" target="_blank">DOI: 10.3389/fpls.2022.1126610</a></div>
