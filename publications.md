@@ -115,6 +115,6 @@
 ---
 
 完整列表请访问
-<a href="https://scholar.google.com/citations?user=SUF79VYAAAAJ" target="_blank"><img src="/assets/images/google-scholar.svg" alt="Google Scholar" height="20" style="vertical-align: middle;"></a>
+<a href="https://scholar.google.com/citations?user=SUF79VYAAAAJ" target="_blank"><img src="/assets/images/google-scholar.png" alt="Google Scholar" height="20" style="vertical-align: middle;"></a>
 或
-<a href="https://www.researchgate.net/profile/Bi-Cheng_Dong" target="_blank"><img src="/assets/images/researchgate.svg" alt="ResearchGate" height="20" style="vertical-align: middle;"></a>。
+<a href="https://www.researchgate.net/profile/Bi-Cheng_Dong" target="_blank"><img src="/assets/images/researchgate.png" alt="ResearchGate" height="20" style="vertical-align: middle;"></a>。

@@ -113,6 +113,6 @@ Total: 50+ SCI papers. Selected publications below.
 <div class="pub-entry">Dong, B.-C., Zhang, M.-X., Alpert, P., Lei, G.-C., & Yu, F.-H. (2010). Effects of orientation on survival and growth of small fragments of the invasive, clonal plant <em>Alternanthera philoxeroides</em>. <strong>PLoS ONE</strong>, 5, e13631. <a href="https://doi.org/10.1371/journal.pone.0013631" target="_blank">DOI: 10.1371/journal.pone.0013631</a></div>
 
 Full list:
-<a href="https://scholar.google.com/citations?user=SUF79VYAAAAJ" target="_blank"><img src="/assets/images/google-scholar.svg" alt="Google Scholar" height="20" style="vertical-align: middle;"></a>
+<a href="https://scholar.google.com/citations?user=SUF79VYAAAAJ" target="_blank"><img src="/assets/images/google-scholar.png" alt="Google Scholar" height="20" style="vertical-align: middle;"></a>
 ·
-<a href="https://www.researchgate.net/profile/Bi-Cheng_Dong" target="_blank"><img src="/assets/images/researchgate.svg" alt="ResearchGate" height="20" style="vertical-align: middle;"></a>.
+<a href="https://www.researchgate.net/profile/Bi-Cheng_Dong" target="_blank"><img src="/assets/images/researchgate.png" alt="ResearchGate" height="20" style="vertical-align: middle;"></a>.
