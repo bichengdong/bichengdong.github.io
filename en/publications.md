@@ -1,3 +1,5 @@
+Total: 18 papers (first author: 12; corresponding author: 6).
+
 ## 2021–Present
 
 <div class="pub-entry"><strong>Dong, B.-C.</strong>, Dong, R., Yang, Q., Kinlock, N. L., & van Kleunen, M. (2025). Predicting invasion success of naturalized cultivated plants in China. <strong>Journal of Applied Ecology</strong>, 62, 1365–2664. <a href="https://doi.org/10.1111/1365-2664.14873" target="_blank">DOI: 10.1111/1365-2664.14873</a></div>
