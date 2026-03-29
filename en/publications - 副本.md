@@ -1,4 +1,4 @@
-Total: 23 papers (first author or corresponding author). Sorted by year.
+Total: 50+ SCI papers. Selected publications below.
 
 <div class="pub-entry">Wang, L.-H., Gao, L.-Y., Dong, B.-C., & Yu, F.-H. (2025). Determinants of global variation in taxonomic and phylogenetic diversity of invasive plants. <strong>Journal of Ecology</strong>, 113, 1821–1835. <a href="https://doi.org/10.1111/1365-2745.70068" target="_blank">DOI: 10.1111/1365-2745.70068</a></div>
 
