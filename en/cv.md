@@ -1,5 +1,3 @@
-## Bi-Cheng Dong
-
 Associate Professor · School of Ecology and Nature Conservation, Beijing Forestry University
 
 ---
