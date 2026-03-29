@@ -56,6 +56,7 @@ permalink: /en/cv/  # 英文页面需要设置永久链接
 ```
 
 **格式说明：**
+
 - `<strong>Dong, B.-C.</strong>` — 第一作者加粗
 - `<strong>Dong, B.-C.*</strong>` — 通讯作者加粗并标 `*`
 - `<em>物种名</em>` — 物种名斜体
@@ -130,12 +131,12 @@ bundle exec jekyll serve
 
 ## 文件对应关系
 
-| 中文 | 英文 | 说明 |
-|------|------|------|
-| index.md | en/index.md | 首页 |
-| cv.md | en/cv.md | 简历 |
-| publications.md | en/publications.md | 论文 |
-| teaching.md | en/teaching.md | 教学 |
+| 中文              | 英文                 | 说明  |
+| --------------- | ------------------ | --- |
+| index.md        | en/index.md        | 首页  |
+| cv.md           | en/cv.md           | 简历  |
+| publications.md | en/publications.md | 论文  |
+| teaching.md     | en/teaching.md     | 教学  |
 
 ---
 
