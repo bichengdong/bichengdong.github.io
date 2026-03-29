@@ -1,3 +1,9 @@
+---
+layout: page
+title: 论文
+lang: zh
+---
+
 <div style="text-align: center;">
   <img src="/assets/images/publications-wordcloud.jpg" alt="Publications Word Cloud" style="max-width: 100%; height: auto;">
 </div>

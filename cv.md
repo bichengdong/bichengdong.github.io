@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 简历
+lang: zh
 ---
 
 ### 董必成
