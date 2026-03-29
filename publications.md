@@ -1,4 +1,8 @@
-共发表SCI论文23篇（第一作者15篇，通讯作者8篇）。
+<div style="text-align: center;">
+  <img src="/assets/images/publications-wordcloud.jpg" alt="Publications Word Cloud" style="max-width: 100%; height: auto;">
+</div>
+
+<p style="font-size: 0.95em; color: #555;">共发表SCI论文23篇（第一作者15篇，通讯作者8篇）。</p>
 
 ## 2022–至今
 

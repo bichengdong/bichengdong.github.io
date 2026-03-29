@@ -1,4 +1,8 @@
-Total: 23 papers (first author: 15; corresponding author: 8).
+<div style="text-align: center;">
+  <img src="/assets/images/publications-wordcloud.jpg" alt="Publications Word Cloud" style="max-width: 100%; height: auto;">
+</div>
+
+<p style="font-size: 0.95em; color: #555;">Total: 23 papers (first author: 15; corresponding author: 8).</p>
 
 ## 2022–Present
 
