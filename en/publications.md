@@ -4,17 +4,17 @@ Total: 23 papers (first author: 15; corresponding author: 8).
 
 <div class="pub-entry"><strong>Dong, B.-C.</strong>, Dong, R., Yang, Q., Kinlock, N. L., & van Kleunen, M. (2025). Predicting invasion success of naturalized cultivated plants in China. <strong>Journal of Applied Ecology</strong>, 62, 1365–2664. <a href="https://doi.org/10.1111/1365-2664.14873" target="_blank">DOI: 10.1111/1365-2664.14873</a></div>
 
-<div class="pub-entry"><strong>Wang, L.-H., Gao, L.-Y., Dong, B.-C.*</strong>, & Yu, F.-H. (2025). Determinants of global variation in taxonomic and phylogenetic diversity of invasive plants. <strong>Journal of Ecology</strong>, 113, 1821–1835. <a href="https://doi.org/10.1111/1365-2745.70068" target="_blank">DOI: 10.1111/1365-2745.70068</a></div>
+<div class="pub-entry">Wang, L.-H., Gao, L.-Y., <strong>Dong, B.-C.*</strong>, & Yu, F.-H. (2025). Determinants of global variation in taxonomic and phylogenetic diversity of invasive plants. <strong>Journal of Ecology</strong>, 113, 1821–1835. <a href="https://doi.org/10.1111/1365-2745.70068" target="_blank">DOI: 10.1111/1365-2745.70068</a></div>
 
 <div class="pub-entry"><strong>Dong, B.-C.*</strong>, Yang, Q., Kinlock, N. L., Pouteau, R., Pyšek, P., Weigelt, P., & van Kleunen, M. (2024). Naturalization of introduced plants is driven by life-form-dependent cultivation biases. <strong>Diversity and Distributions</strong>, 30, 55–70. <a href="https://doi.org/10.1111/ddi.13788" target="_blank">DOI: 10.1111/ddi.13788</a></div>
 
-<div class="pub-entry"><strong>Dong, R., Dong, B.-C.*</strong>, Fu, Q.-Y., Yang, Q., Dai, Z.-C., Luo, F.-L., Gao, J.-Q., & van Kleunen, M. (2024). Cultivated alien plants with high invasion potential are more likely to be traded online in China. <strong>Ecological Applications</strong>, 34, e2811. <a href="https://doi.org/10.1002/eap.2811" target="_blank">DOI: 10.1002/eap.2811</a></div>
+<div class="pub-entry">Dong, R., <strong>Dong, B.-C.*</strong>, Fu, Q.-Y., Yang, Q., Dai, Z.-C., Luo, F.-L., Gao, J.-Q., & van Kleunen, M. (2024). Cultivated alien plants with high invasion potential are more likely to be traded online in China. <strong>Ecological Applications</strong>, 34, e2811. <a href="https://doi.org/10.1002/eap.2811" target="_blank">DOI: 10.1002/eap.2811</a></div>
 
 <div class="pub-entry"><strong>Dong, B.-C.</strong>, Roiloa, S. R., Xue, W., & Yu, F.-H. (2023). Editorial: Ecoepigenetics in clonal and inbreeding plants: Transgenerational adaptation and environmental variation, Volume II. <strong>Frontiers in Plant Science</strong>, 13, 1126610. <a href="https://doi.org/10.3389/fpls.2022.1126610" target="_blank">DOI: 10.3389/fpls.2022.1126610</a></div>
 
-<div class="pub-entry"><strong>Wang, L.-H., Si, J., Luo, F.-L., Dong, B.-C.*</strong>, & Yu, F.-H. (2022). Parental effects driven by resource provisioning in <em>Alternanthera philoxeroides</em>: A simulation case study. <strong>Frontiers in Plant Science</strong>, 13, 872065. <a href="https://doi.org/10.3389/fpls.2022.872065" target="_blank">DOI: 10.3389/fpls.2022.872065</a></div>
+<div class="pub-entry">Wang, L.-H., Si, J., Luo, F.-L., <strong>Dong, B.-C.*</strong>, & Yu, F.-H. (2022). Parental effects driven by resource provisioning in <em>Alternanthera philoxeroides</em>: A simulation case study. <strong>Frontiers in Plant Science</strong>, 13, 872065. <a href="https://doi.org/10.3389/fpls.2022.872065" target="_blank">DOI: 10.3389/fpls.2022.872065</a></div>
 
-<div class="pub-entry"><strong>Dong, R., Gao, S.-S., Dong, B.-C.*</strong>, Luo, F.-L., & Gao, J.-Q. (2022). Plasticity in responses to dimensional variations of soil space in 19 grassland plant species. <strong>Ecological Indicators</strong>, 142, 109300. <a href="https://doi.org/10.1016/j.ecolind.2022.109300" target="_blank">DOI: 10.1016/j.ecolind.2022.109300</a></div>
+<div class="pub-entry">Dong, R., Gao, S.-S., <strong>Dong, B.-C.*</strong>, Luo, F.-L., & Gao, J.-Q. (2022). Plasticity in responses to dimensional variations of soil space in 19 grassland plant species. <strong>Ecological Indicators</strong>, 142, 109300. <a href="https://doi.org/10.1016/j.ecolind.2022.109300" target="_blank">DOI: 10.1016/j.ecolind.2022.109300</a></div>
 
 <div class="pub-entry"><strong>Dong, B.-C.*</strong>, Wang, P., Luo, F.-L., & Yu, F.-H. (2022). Sharing of nitrogen between connected ramets of <em>Alternanthera philoxeroides</em> in homogeneous environments. <strong>Plant and Soil</strong>, 478, 445–460. <a href="https://doi.org/10.1007/s11104-022-05475-5" target="_blank">DOI: 10.1007/s11104-022-05475-5</a></div>
 
@@ -22,7 +22,7 @@ Total: 23 papers (first author: 15; corresponding author: 8).
 
 ## 2010–2021
 
-<div class="pub-entry"><strong>Hu, X.-T., & Dong, B.-C.*</strong> (2019). Herbivory and nitrogen availability affect performance of an invader <em>Alternanthera philoxeroides</em> and its native congener <em>A. sessilis</em>. <strong>Flora</strong>, 257, 151412. <a href="https://doi.org/10.1016/j.flora.2019.05.011" target="_blank">DOI: 10.1016/j.flora.2019.05.011</a></div>
+<div class="pub-entry">Hu, X.-T., & <strong>Dong, B.-C.*</strong> (2019). Herbivory and nitrogen availability affect performance of an invader <em>Alternanthera philoxeroides</em> and its native congener <em>A. sessilis</em>. <strong>Flora</strong>, 257, 151412. <a href="https://doi.org/10.1016/j.flora.2019.05.011" target="_blank">DOI: 10.1016/j.flora.2019.05.011</a></div>
 
 <div class="pub-entry"><strong>Dong, B.-C.</strong>, & Yu, F.-H. (2019). Editorial: Ecoepigenetics in Clonal and Inbreeding Plants: Transgenerational Adaptation and Environmental Variation. <strong>Frontiers in Plant Science</strong>, 10, 622. <a href="https://doi.org/10.3389/fpls.2019.00622" target="_blank">DOI: 10.3389/fpls.2019.00622</a></div>
 
@@ -34,7 +34,7 @@ Total: 23 papers (first author: 15; corresponding author: 8).
 
 <div class="pub-entry"><strong>Dong, B.-C.</strong>, Wang, M.-Z., Liu, R.-H., Luo, F.-L., Li, H.-L., & Yu, F.-H. (2018). Direct and legacy effects of herbivory on growth and physiology of a clonal plant. <strong>Biological Invasions</strong>, 20, 3631–3645. <a href="https://doi.org/10.1007/s10530-018-1801-5" target="_blank">DOI: 10.1007/s10530-018-1801-5</a></div>
 
-<div class="pub-entry"><strong>Liu, L., & Dong, B.-C.*</strong> (2017). Effects of soil heterogeneity and clonal integration on <em>Alternanthera philoxeroides</em> populations with a radial ramet aggregation. <strong>Plant Species Biology</strong>, 32, 189–199. <a href="https://doi.org/10.1111/1442-1984.12141" target="_blank">DOI: 10.1111/1442-1984.12141</a></div>
+<div class="pub-entry">Liu, L., & <strong>Dong, B.-C.*</strong> (2017). Effects of soil heterogeneity and clonal integration on <em>Alternanthera philoxeroides</em> populations with a radial ramet aggregation. <strong>Plant Species Biology</strong>, 32, 189–199. <a href="https://doi.org/10.1111/1442-1984.12141" target="_blank">DOI: 10.1111/1442-1984.12141</a></div>
 
 <div class="pub-entry"><strong>Dong, B.-C.</strong>, Fu, T., Luo, F.-L., & Yu, F.-H. (2017). Herbivory-induced maternal effects on growth and defense traits in the clonal species <em>Alternanthera philoxeroides</em>. <strong>Science of the Total Environment</strong>, 605–606, 114–123. <a href="https://doi.org/10.1016/j.scitotenv.2017.06.141" target="_blank">DOI: 10.1016/j.scitotenv.2017.06.141</a></div>
 
