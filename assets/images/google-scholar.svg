@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="20" viewBox="0 0 120 40">
+  <rect x="2" y="8" width="36" height="24" rx="3" fill="#4285f4"/>
+  <rect x="12" y="8" width="26" height="24" rx="3" fill="#34a853"/>
+  <text x="8" y="26" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">G</text>
+  <text x="62" y="26" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#666">Scholar</text>
+</svg>
