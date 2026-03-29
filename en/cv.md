@@ -4,7 +4,9 @@ title: CV
 permalink: /en/cv/
 ---
 
-**Bi-Cheng Dong** · Associate Professor · School of Ecology and Nature Conservation, Beijing Forestry University
+### Bi-Cheng Dong
+
+Associate Professor · School of Ecology and Nature Conservation, Beijing Forestry University
 
 ---
 
